@@ -1,5 +1,5 @@
 # sandwich
 
-you will need make tools
+Run from terminal
 
-* `sudo apt install build-essential`
+`./sandwich.sh`
