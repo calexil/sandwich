@@ -2,4 +2,4 @@
 
 Run from terminal
 
-`./sandwich.sh`
+`python sandwich.py`
