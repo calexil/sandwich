@@ -2,4 +2,6 @@
 
 ##it makes you a sandwich
 Run from terminal
-* python `sandwich.py`
+* `git clone https://github.com/calexil/sandwich.git`
+* `cd sandwich/`
+* `python sandwich.py`
