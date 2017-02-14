@@ -1,10 +1,9 @@
 # sandwich
-***
+
 das a gud-ass sammich
 ##Prerequisites
 * python 2.7
-* pyautogui
-
+* pyautogui  
 `pip install pyautogui`
 
 ##Clone and run
