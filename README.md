@@ -1,6 +1,11 @@
 # sandwich
+***
+##Prerequisites
+* python 2.7
+* pyautogui
+`pip install pyautogui`
 
-##it makes you a sandwich
+##Clone and run
 Run from terminal
 * `git clone https://github.com/calexil/sandwich.git`
 * `cd sandwich/`
