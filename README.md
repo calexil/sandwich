@@ -3,6 +3,7 @@
 ##Prerequisites
 * python 2.7
 * pyautogui
+
 `pip install pyautogui`
 
 ##Clone and run
